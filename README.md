@@ -7,4 +7,4 @@ This is a simple tic-tac-toe game, very common in React challanges. For doing th
 ## Images
 
 <img src = "./images/imagemjogo.png">
-<img src = "./images/imagem1.png">
+<img src = "./images/imagem2.png">

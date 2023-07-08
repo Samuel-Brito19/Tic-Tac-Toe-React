@@ -2,7 +2,7 @@
 
 ## About
 
-This is a simple tic-tac-toe game, very common in React challanges. For doing this project, i only use Chat GPT. IA will take over the world? Well, probably yes. But until that, let's use it to improve our skills!
+This is a simple tic-tac-toe game, very common in React challanges. For doing this project, i just used Chat GPT. IA will take over the world? Well, probably yes. But until that, let's use it to improve our skills!
 
 ## Images
 

@@ -22,7 +22,6 @@ function App() {
         break;
       }
     }
-    //N entendi
   }, [table])
 
   const handlePlayerClick = (index) => {
@@ -46,7 +45,6 @@ function App() {
       </div>
 
       {winner && (
-        //Já vi mas n me recordo
         <div className="winner">
           The player {winner} wins!
         </div>
